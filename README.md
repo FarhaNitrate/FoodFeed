@@ -1,3 +1,4 @@
+<h1>FoodFeed</h1>
 A social media website dedicated only to food reviews. Created using Laravel 10, PHP, CSS, HTML and a bit of JS. 
 
 Before running the project, you need to have Laravel installed. Then, run the following commands on terminal after opening up your project folder
